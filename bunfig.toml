@@ -1,0 +1,8 @@
+[install]
+linker = "hoisted"
+auto = "disable"
+saveTextLockfile = true
+
+[install.cache]
+dir = ".bun-cache"
+disable = false
